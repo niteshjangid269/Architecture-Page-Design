@@ -1,0 +1,20 @@
+<div id="bottom">
+                <div id="first">
+                    <div class="content">
+                        <h4>Emerge Time</h4>
+                    <p>End of the 19th Century</p>
+                    </div>
+                </div>
+                <div id="second">
+                    <div class="content">
+                        <h4>Early Modernism</h4>
+                    <p>Europe 1900-1914</p>
+                    </div>
+                </div>
+                <div id="third">
+                    <div class="content">
+                        <h4>Materials</h4>
+                    <p>Cast Iron, Plate Glass, ...</p>
+                    </div>
+                </div>
+            </div>
